@@ -10,4 +10,7 @@ license = "MIT OR Apache-2.0"
 [dependencies]
 dioxus = { version = "0.5", features = ["web"] }
 manganis = "0.2.2"
-dioxus-chessboard = "0.1.0"
+dioxus-chessboard = "0.1.2"
+tracing = "0.1.40"
+futures-util = "0.3.30"
+dioxus-logger = "0.5.1"
