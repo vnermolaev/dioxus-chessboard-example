@@ -1,3 +1,6 @@
+# ARCHIVED
+The [component repository](https://github.com/vnermolaev/dioxus-chessboard) now contains a better example. This will not be updated.
+
 ## Overview
 
 This binary demonstrates functionality of a Dioxus component
